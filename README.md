@@ -1,4 +1,4 @@
-POLYGLOT MIND & LANGUAGE INTERACTIONS - ITALIAN MIND 
+POLYGLOT MIND & LANGUAGE INTERACTIONS - SPANISH MIND 
 ----------------------------------------------------
 
 A new language project has come on Github ! 🍾🍾🍾🍾🍾🍾 
@@ -50,6 +50,19 @@ For more details, please read some notes below :
 - "Pre-requests for the repository" to evalue if you are able to contribute to this repository. 
 
 Please be honest and ask yourself. It's not a problem if you don't contribue to this repository. I don't want to loose your time and my time.
+
+***
+Student : Twister94
+This position is to write the Obsidian road or the Obsidian map, do language exercises and ask questions to sharpen his/her understading.
+
+Supervisor : Ilea95
+This role is to see his progress, overlook his student's learning, encourage his/her student, make some correction and give some exercices for the student. 
+---> Examples of exercises : 
+- An audio for training his/her ear.
+- A quote to see if the student understand the sense
+- A new word from the dictionary
+
+***
 
 Peace & Love
 
